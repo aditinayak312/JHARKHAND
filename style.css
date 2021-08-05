@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+    color: cornflowerblue;
+     size:100px;
+}
+h2{
+    color: darkgoldenrod;
+    size:30px;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: darkorchid;
+    size:30px;
+}
+h5{
+    text-align: center;
+    color: darkorchid;
+    size:30px;
+}
+button{
+    color: darkred;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    size:1000px;
+    color: deeppink;
+}
+
